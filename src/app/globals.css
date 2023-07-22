@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+.links:hover{
+    color: blue;
+    text-decoration: underline;
+}
